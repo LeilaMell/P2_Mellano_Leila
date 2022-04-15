@@ -1,0 +1,90 @@
+/*filtres*/
+
+#entete {
+    height:auto;
+    margin: 40px 0;
+}
+
+#entete h1 {
+    font-size: 25px;
+}
+
+#filtres {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+
+/*hebergements*/
+
+#hebergements {
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+/*hebergements populaires*/
+
+#hebergements_populaires {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+#hebergements_populaires .card a {
+    display: flex;
+    width: 80%;
+}
+
+/*hebergements marseille*/
+
+#hebergements_marseille {
+    width: 100%;
+}
+
+#hebergements_hotels .card {
+    width: 40%;
+}
+
+/*activites*/
+
+#activites_marseille {
+    margin: 40px 0;
+}
+
+#activites h2 {
+    font-size: 16px;
+    padding: 0 5px 15px 10px;
+}
+
+#activites img {
+    height: 270px;
+}
+
+#activites .moyenne img {
+    height: 120px;
+}
+
+#activites .petite img {
+    height: 80px;
+}
+
+#activites .moyen_petit img{
+    height: 95px;
+}
+
+#activites .moyen_grand img{
+    height: 110px;
+}
+
+/*footer*/
+
+footer{
+    padding: 1% 5% 3% 5%;
+}
+
+footer h1 {
+    font-size: 23px;
+}
+
+footer p {
+    font-size: 15px;
+}
