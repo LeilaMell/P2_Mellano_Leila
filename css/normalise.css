@@ -1,18 +1,5 @@
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 
- @font-face 
- {
-    font-family: 'ralewaythin';
-    src: url('fonts/raleway-variablefont_wght-webfont.woff2') format('woff2'),
-         url('fonts/raleway-variablefont_wght-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-}
-*
-{
-    font-family: "ralewaywythin";
-}
 /**
 
  * 1. Correct the line height in all browsers.
